@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Kanonn\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Kanonn\\.nuget\\packages"
+    ]
+  }
+}
